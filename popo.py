@@ -1,1 +1,0 @@
-print("Linux papu doebet!")

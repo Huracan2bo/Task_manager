@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 6f4c0c2e43aa4f61127090bda4942cd4002a98b7
 # crud - create read update delete
 
 # Task manager
@@ -77,6 +80,7 @@ while what_to_do is not "Выход":
     elif what_to_do == 'Все задачи':
 
         show_all_tasks(task_dickt)
+<<<<<<< HEAD
     
     
     
@@ -88,3 +92,5 @@ while what_to_do is not "Выход":
         
     
     
+=======
+>>>>>>> 6f4c0c2e43aa4f61127090bda4942cd4002a98b7
